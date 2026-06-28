@@ -1,4 +1,4 @@
-# Zhe Wee (Derrick) Ng's Research
+# Derrick Ng's Research
 
 Selected research projects applying machine learning to translate incomplete, noisy, and unstructured engineering data into interpretable datasets, models, and decision guidance across e-waste supply-chain optimization, sustainable product-design analysis, and wildfire-response forecasting.
 

@@ -1,4 +1,4 @@
-# Zhe Wee (Derrick) Ng's Coursework
+# Derrick Ng's Coursework
 
 Selected coursework in artificial intelligence, computer science, engineering professional development, and mathematics. GitHub repository links are included for courses with substantial project or assignment work suitable for portfolio review; courses without a public repository are listed without a link.
 

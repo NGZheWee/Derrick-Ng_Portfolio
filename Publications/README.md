@@ -1,4 +1,4 @@
-# Zhe Wee (Derrick) Ng's Publications
+# Derrick Ng's Publications
 
 Selected peer-reviewed journal and conference publications.
 

@@ -1,6 +1,6 @@
-# Zhe Wee (Derrick) Ng's Portfolio
+# Derrick Ng's Portfolio
 
-I am Zhe Wee (Derrick) Ng, a Computer Science graduate from UC Berkeley and an MEng in Artificial Intelligence student at UCLA.
+I am Derrick Ng, a Computer Science graduate from UC Berkeley and an MEng in Artificial Intelligence student at UCLA.
 
 I develop and deploy AI techniques for real-world problems through data-driven, interdisciplinary research across supply-chain optimization, sustainable design, autonomous systems, and biomedical innovation.
 
