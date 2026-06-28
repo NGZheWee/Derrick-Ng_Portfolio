@@ -22,6 +22,6 @@ Selected peer-reviewed journal and conference publications with metadata, summar
 
 ## Contact and Resume
 
-For more information on my academic and professional background, view my [resume](Resume_ZheWee_NG.pdf).
+For more information on my academic and professional background, view my [resume](Derrick-Ng_Resume.pdf).
 
 You can also connect with me on [LinkedIn](https://www.linkedin.com/in/ngzhewee/) or reach me at [derrickng1024@g.ucla.edu](mailto:derrickng1024@g.ucla.edu).
