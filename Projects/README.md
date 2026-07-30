@@ -9,9 +9,9 @@ Selected technical and research projects applying artificial intelligence and ma
 - **Role:** AI Governance Engineer
 - **Affiliation:** [iDox.ai](https://idox.ai), UCLA Samueli Industry Capstone
 - **Period:** June 2026 - Present
-- **Focus:** Building a LangGraph Policy Agent for a multi-agent refund workflow, integrating Azure OpenAI structured responses to produce confidence-scored, Pydantic-validated decisions grounded in versioned policy evidence and optional precedent context.
-- **Approach:** Implementing OWASP-aligned governance controls at agent handoffs, using validated state contracts and persisted audit events to detect forbidden tool claims, semantic drift, and PII risk, route flagged cases to human approval, and support downstream risk alerts.
-- **Contributions:** Developing a GCP MySQL evaluation and persistence harness for 20 routine, edge-case, and adversarial refund scenarios, validating workflow reliability through reproducible traces, policy and governance audit records, routing outcomes, and token-usage tracking.
+- **Focus:** Applies a governed multi-agent workflow to customer refund requests, coordinating triage, policy evaluation, refund handling, customer response, and human approval while preserving auditable workflow state.
+- **Approach:** Designing and implementing a LangGraph Policy Agent that evaluates validated triage state with Azure OpenAI against versioned policy context, produces confidence-scored Pydantic-validated decisions, and runs an independent OWASP-aligned governance review before parent-owned routing and persistence.
+- **Contributions:** Developed the Policy Agent's reasoning and governance architecture, strict data contracts, Azure validation-and-repair flow, routing rules, parent-state integration, and GCP MySQL persistence boundary, together with audit and token tracking and a reproducible 20-case evaluation harness.
 - **Link:** [GitHub repository](https://github.com/ChenSpike/customer-refund-service)
 
 ### 2. Machine Learning-Aided Supply Chain Analysis of Waste Management Systems
