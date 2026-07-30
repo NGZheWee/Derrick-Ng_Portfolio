@@ -7,11 +7,11 @@ Selected technical and research projects applying artificial intelligence and ma
 ### 1. Enterprise AI-Governed Customer Refund Service
 
 - **Role:** AI Governance Engineer
-- **Affiliation:** iDox.ai, UCLA Samueli Industry Capstone
+- **Affiliation:** [iDox.ai](https://idox.ai), UCLA Samueli Industry Capstone
 - **Period:** June 2026 - Present
-- **Focus:** Building a governed refund-policy decision component within a multi-agent customer-refund workflow, with clear boundaries between policy reasoning, governance review, downstream routing, and persistence.
-- **Approach:** Combined Azure OpenAI policy reasoning and independent governance review with LangGraph state integration, typed Pydantic contracts, versioned policy evidence, validation and repair controls, and GCP MySQL workflow persistence.
-- **Contributions:** Developed the Policy Agent and its OWASP-aligned governance checks for semantic drift, forbidden tool claims, and PII risk; implemented confidence-scored decisions and routing to refund, response, or human-approval paths; and built a 20-case cloud evaluation harness for routine, edge-case, and adversarial scenarios.
+- **Focus:** Building a LangGraph Policy Agent for a multi-agent refund workflow, integrating Azure OpenAI structured responses to produce confidence-scored, Pydantic-validated decisions grounded in versioned policy evidence and optional precedent context.
+- **Approach:** Implementing OWASP-aligned governance controls at agent handoffs, using validated state contracts and persisted audit events to detect forbidden tool claims, semantic drift, and PII risk, route flagged cases to human approval, and support downstream risk alerts.
+- **Contributions:** Developing a GCP MySQL evaluation and persistence harness for 20 routine, edge-case, and adversarial refund scenarios, validating workflow reliability through reproducible traces, policy and governance audit records, routing outcomes, and token-usage tracking.
 - **Link:** [GitHub repository](https://github.com/ChenSpike/customer-refund-service)
 
 ### 2. Machine Learning-Aided Supply Chain Analysis of Waste Management Systems
