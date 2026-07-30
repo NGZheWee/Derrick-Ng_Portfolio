@@ -2,9 +2,9 @@
 
 I am Derrick Ng, a Computer Science graduate from UC Berkeley and an MEng in Artificial Intelligence student at UCLA.
 
-I develop and deploy AI techniques for real-world problems through data-driven, interdisciplinary research across supply-chain optimization, sustainable design, autonomous systems, and biomedical innovation.
+I develop and deploy AI systems for real-world problems across AI governance, supply-chain optimization, sustainable design, autonomous systems, and biomedical innovation.
 
-This repository contains selected coursework, research projects, publications, and supporting project repositories.
+This repository contains selected coursework, technical and research projects, publications, and supporting project repositories.
 
 ## Repository Structure
 
@@ -12,9 +12,9 @@ This repository contains selected coursework, research projects, publications, a
 
 Selected coursework across computer science, artificial intelligence, engineering, and mathematics. Public project repositories are linked where available.
 
-### 2. [Research](Research)
+### 2. [Projects](Projects)
 
-Selected research projects with summaries of focus, methods, contributions, and related links.
+Selected technical and research projects with summaries of focus, methods, contributions, and related links.
 
 ### 3. [Publications](Publications)
 

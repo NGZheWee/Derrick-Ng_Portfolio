@@ -1,10 +1,20 @@
-# Derrick Ng's Research
+# Derrick Ng's Projects
 
-Selected research projects applying machine learning to translate incomplete, noisy, and unstructured engineering data into interpretable datasets, models, and decision guidance across e-waste supply-chain optimization, sustainable product-design analysis, and wildfire-response forecasting.
+Selected technical and research projects applying artificial intelligence and machine learning to governance, decision support, sustainable systems, product-design analysis, and wildfire-response forecasting.
 
-## Research Projects
+## Projects
 
-### 1. Machine Learning-Aided Supply Chain Analysis of Waste Management Systems
+### 1. Enterprise AI-Governed Customer Refund Service
+
+- **Role:** AI Governance Engineer
+- **Affiliation:** iDox.ai, UCLA Samueli Industry Capstone
+- **Period:** June 2026 - Present
+- **Focus:** Building a governed refund-policy decision component within a multi-agent customer-refund workflow, with clear boundaries between policy reasoning, governance review, downstream routing, and persistence.
+- **Approach:** Combined Azure OpenAI policy reasoning and independent governance review with LangGraph state integration, typed Pydantic contracts, versioned policy evidence, validation and repair controls, and GCP MySQL workflow persistence.
+- **Contributions:** Developed the Policy Agent and its OWASP-aligned governance checks for semantic drift, forbidden tool claims, and PII risk; implemented confidence-scored decisions and routing to refund, response, or human-approval paths; and built a 20-case cloud evaluation harness for routine, edge-case, and adversarial scenarios.
+- **Link:** [GitHub repository](https://github.com/ChenSpike/customer-refund-service)
+
+### 2. Machine Learning-Aided Supply Chain Analysis of Waste Management Systems
 
 - **Role:** Lead researcher; first and corresponding author
 - **Affiliation:** [Department of Electrical Engineering and Computer Sciences, UC Berkeley](https://eecs.berkeley.edu/)
@@ -14,7 +24,7 @@ Selected research projects applying machine learning to translate incomplete, no
 - **Contributions:** Published in *Sustainability*, 17(19), Article 8848, 2025. The study reported predictive performance above R2 = 0.97 across 21 variables, showed that FNN models better predicted arbitrage conditions while RF models supported interpretability, and produced a data-driven toolkit for sustainable e-waste supply-chain analysis.
 - **Link:** [Publisher page](https://www.mdpi.com/2071-1050/17/19/8848)
 
-### 2. Data-Driven Sustainable Design Opportunities from Automated User Insights
+### 3. Data-Driven Sustainable Design Opportunities from Automated User Insights
 
 - **Role:** Research assistant; co-author
 - **Affiliation:** [Co-Design Lab](https://codesign.berkeley.edu/team/derrick-ng/), [Berkeley Engineering Design Scholar Program](https://jacobsinstitute.berkeley.edu/berkeley-engineering-design-scholar-program/past-cohorts/), [Jacobs Institute for Design Innovation](https://jacobsinstitute.berkeley.edu/), and [UC Berkeley Mechanical Engineering](https://me.berkeley.edu/)
@@ -24,7 +34,7 @@ Selected research projects applying machine learning to translate incomplete, no
 - **Contributions:** Created the research database used in the ASME IDETC-CIE 2025 paper, covering more than 23,000 reviews across 290 products. The analysis connected sustainability certifications, product metadata, user sentiment, product affordances, and review evidence to surface certification-perception gaps, category-level redesign themes, and product-specific design leads for a printer, laptop, and USB-C to HDMI cable.
 - **Links:** [Conference paper](https://codesign.berkeley.edu/papers/goridkov-reviews-idetc/) | [GitHub repository](https://github.com/NGZheWee/CoDesignLab-SustainableDesign-NLP)
 
-### 3. Multimodal Wildfire Forecasting for Robotic Response Systems
+### 4. Multimodal Wildfire Forecasting for Robotic Response Systems
 
 - **Role:** Research assistant
 - **Affiliation:** [BEST Lab, UC Berkeley](https://best.berkeley.edu/) in collaboration with [Squishy Robotics](https://best.berkeley.edu/squishy-robotics/)
